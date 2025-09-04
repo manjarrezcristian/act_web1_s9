@@ -1,0 +1,42 @@
+[
+    {
+        "activity": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
+        "solution": "ejercicios/ejercicio_01.js"
+    },
+    {
+        "activity": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
+        "solution": "ejercicios/ejercicio_02.js"
+    },
+    {
+        "activity": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
+        "solution": "ejercicios/ejercicio_03.js"
+    },
+    {
+        "activity": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
+        "solution": "ejercicios/ejercicio_04.js"
+    },
+    {
+        "activity": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
+        "solution": "ejercicios/ejercicio_05.js"
+    },
+    {
+        "activity": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
+        "solution": "ejercicios/ejercicio_06.js"
+    },
+    {
+        "activity": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
+        "solution": "ejercicios/ejercicio_07.js"
+    },
+    {
+        "activity": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
+        "solution": "ejercicios/ejercicio_08.js"
+    },
+    {
+        "activity": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
+        "solution": "ejercicios/ejercicio_09.js"
+    },
+    {
+        "activity": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
+        "solution": "ejercicios/ejercicio_10.js"
+    }
+]
