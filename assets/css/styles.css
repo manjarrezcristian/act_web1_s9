@@ -1,0 +1,17 @@
+.caja {
+  width: 200px;
+  height: 100px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+  transition: all 0.3s ease;
+}
+
+.resaltado {
+  background-color: lightgreen;
+  color: darkgreen;
+  font-weight: bold;
+  transform: scale(1.1);
+}
