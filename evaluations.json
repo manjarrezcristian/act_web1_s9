@@ -1,0 +1,89 @@
+{
+  "manjarrezcristian/act_web1_s9": {
+    "repositoryUrl": "manjarrezcristian/act_web1_s9",
+    "studentName": "cristian luis tovar manjarrez",
+    "activities": [
+      {
+        "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
+        "solutionFile": "ejercicios/ejercicio_01.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
+        "solutionFile": "ejercicios/ejercicio_02.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
+        "solutionFile": "ejercicios/ejercicio_03.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
+        "solutionFile": "ejercicios/ejercicio_04.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
+        "solutionFile": "ejercicios/ejercicio_05.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
+        "solutionFile": "ejercicios/ejercicio_06.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
+        "solutionFile": "ejercicios/ejercicio_07.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
+        "solutionFile": "ejercicios/ejercicio_08.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
+        "solutionFile": "ejercicios/ejercicio_09.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      },
+      {
+        "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
+        "solutionFile": "ejercicios/ejercicio_10.js",
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
+      }
+    ],
+    "overallScore": 0,
+    "totalActivities": 10,
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/10 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Completar los archivos faltantes: ejercicios/ejercicio_01.js, ejercicios/ejercicio_02.js, ejercicios/ejercicio_03.js, ejercicios/ejercicio_04.js, ejercicios/ejercicio_05.js, ejercicios/ejercicio_06.js, ejercicios/ejercicio_07.js, ejercicios/ejercicio_08.js, ejercicios/ejercicio_09.js, ejercicios/ejercicio_10.js",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-09-11T23:57:16.981Z",
+    "evaluatedBy": "Sistema de Evaluación"
+  }
+}
