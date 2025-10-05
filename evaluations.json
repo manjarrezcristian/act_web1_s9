@@ -253,5 +253,90 @@
     ],
     "evaluatedAt": "2025-10-05T18:13:23.833Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "Julio28012020/act_web1_s9": {
+    "repositoryUrl": "Julio28012020/act_web1_s9",
+    "studentName": "Roque Aldana",
+    "activities": [
+      {
+        "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
+        "solutionFile": "ejercicios/ejercicio_01.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, funcional y sigue las buenas prácticas al usar DOMContentLoaded para asegurar que el script se ejecute después de que el HTML se haya cargado."
+      },
+      {
+        "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
+        "solutionFile": "ejercicios/ejercicio_02.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Bien hecho."
+      },
+      {
+        "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
+        "solutionFile": "ejercicios/ejercicio_03.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y cumple con todos los requisitos. El código es limpio, bien estructurado y utiliza buenas prácticas. La lógica para destacar y contar productos es clara y funcional."
+      },
+      {
+        "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
+        "solutionFile": "ejercicios/ejercicio_04.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, funcional y demuestra un buen entendimiento del uso de `textContent` e `innerHTML` para manipular el DOM.  Bien implementado el reseteo."
+      },
+      {
+        "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
+        "solutionFile": "ejercicios/ejercicio_05.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos de la actividad. Bien hecho!"
+      },
+      {
+        "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
+        "solutionFile": "ejercicios/ejercicio_06.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad, utilizando correctamente los métodos de `classList`."
+      },
+      {
+        "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
+        "solutionFile": "ejercicios/ejercicio_07.js",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con los requisitos de la actividad. Buen uso de `createElement` y `appendChild`. Considerar la posibilidad de refactorizar para evitar repetición de código (e.g., el `getElementById('contenedor')`)."
+      },
+      {
+        "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
+        "solutionFile": "ejercicios/ejercicio_08.js",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos de la actividad. Bien hecho usando `classList.toggle` para el botón y gestionando el estado visual y el mensaje correctamente."
+      },
+      {
+        "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
+        "solutionFile": "ejercicios/ejercicio_09.js",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con los requisitos básicos. Se podría mejorar la validación del email con una expresión regular más robusta y la función `limpiar` no se está utilizando."
+      },
+      {
+        "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
+        "solutionFile": "ejercicios/ejercicio_10.js",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con los requisitos y el código es funcional. Se podría mejorar la presentación visual de la información en la página, además de añadir manejo de errores en caso de no existir un elemento siguiente."
+      }
+    ],
+    "overallScore": 4.7,
+    "totalActivities": 10,
+    "completedActivities": 10,
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-10-05T18:14:24.452Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
