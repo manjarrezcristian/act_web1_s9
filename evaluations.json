@@ -341,89 +341,89 @@
     "evaluatedAt": "2025-10-05T18:18:40.164Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "CarolinaBolivar5/act_web1_s9": {
-    "repositoryUrl": "CarolinaBolivar5/act_web1_s9",
-    "studentName": "Carolina Bolivar Rios",
+  "Estefania-Catano/act_web1_s9": {
+    "repositoryUrl": "Estefania-Catano/act_web1_s9",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
         "solutionFile": "ejercicios/ejercicio_01.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, funcional y cumple con los requisitos de la actividad utilizando correctamente las propiedades `document.title` y `document.URL`."
+        "feedback": "Contenido insuficiente - solo comentarios o código trivial"
       },
       {
         "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
         "solutionFile": "ejercicios/ejercicio_02.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con los requisitos de la actividad. El código es conciso y funcional, demostrando una comprensión clara de getElementById y la manipulación del DOM."
+        "feedback": "La solución es correcta y cumple con todos los requisitos. El código es claro, conciso y fácil de entender."
       },
       {
         "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
         "solutionFile": "ejercicios/ejercicio_03.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. Utiliza `getElementsByClassName()` y un bucle for de manera adecuada para modificar los elementos y actualizar el contador."
+        "feedback": "La solución es correcta y completa. El código es claro, funcional y cumple con todos los requisitos del ejercicio."
       },
       {
         "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
         "solutionFile": "ejercicios/ejercicio_04.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código resuelve el problema de manera eficiente y clara, utilizando correctamente textContent e innerHTML para manipular el contenido del elemento. Bien hecho."
+        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos del ejercicio. Bien hecho!"
       },
       {
         "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
         "solutionFile": "ejercicios/ejercicio_05.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa. Cumple con todos los requisitos del ejercicio, utilizando correctamente getAttribute y setAttribute para modificar los atributos del enlace y la imagen."
+        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Se aplican correctamente los métodos getAttribute y setAttribute."
       },
       {
         "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
         "solutionFile": "ejercicios/ejercicio_06.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es limpio, fácil de entender y utiliza las funciones `add`, `remove` y `toggle` de `classList` según lo solicitado."
+        "feedback": "La solución es correcta y concisa. Utiliza correctamente `classList.add`, `classList.remove` y `classList.toggle` para manipular las clases CSS."
       },
       {
         "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
         "solutionFile": "ejercicios/ejercicio_07.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, funcional y sigue las buenas prácticas para la creación y adición de elementos al DOM. El uso de un contador es una solución elegante."
+        "feedback": "La solución es correcta, concisa y funcional. El código es limpio y fácil de entender, cumpliendo con los requisitos de la actividad."
       },
       {
         "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
         "solutionFile": "ejercicios/ejercicio_08.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, claro y cumple con todos los requisitos de la actividad. Bien hecho."
+        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Bien hecho."
       },
       {
         "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
         "solutionFile": "ejercicios/ejercicio_09.js",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Sería bueno agregar validación del formato del correo electrónico para una solución más robusta."
+        "feedback": "La solución es correcta y funcional. Se podría mejorar la validación del correo electrónico y separar la lógica de validación en funciones para mayor claridad."
       },
       {
         "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
         "solutionFile": "ejercicios/ejercicio_10.js",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con la actividad. Sin embargo, sería mejor validar si `nextElementSibling` existe antes de acceder a `textContent` para evitar errores si es el último elemento."
+        "feedback": "Excelente solución. El código es claro, conciso y demuestra correctamente el uso de las propiedades parentElement, children y nextElementSibling para la navegación DOM. La información se muestra adecuadamente en la página."
       }
     ],
-    "overallScore": 4.8,
+    "overallScore": 4.4,
     "totalActivities": 10,
-    "completedActivities": 10,
-    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.8/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 9,
+    "summary": "Excelente trabajo. Completó 9/10 actividades (90%) con una calificación promedio de 4.4/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja"
     ],
-    "evaluatedAt": "2025-10-05T18:20:41.822Z",
+    "evaluatedAt": "2025-10-05T18:21:40.489Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
