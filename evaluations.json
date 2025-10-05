@@ -169,89 +169,91 @@
     "evaluatedAt": "2025-10-05T18:07:43.339Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Johnsbeltran/act_web1_s9": {
-    "repositoryUrl": "Johnsbeltran/act_web1_s9",
-    "studentName": "Estudiante desconocido",
+  "vastrocode72/act_web1_s9": {
+    "repositoryUrl": "vastrocode72/act_web1_s9",
+    "studentName": "Víctor Alejandro Berrío Rivera",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
         "solutionFile": "ejercicios/ejercicio_01.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y funcional. Cumple con todos los requisitos de la actividad y utiliza buenas prácticas."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
         "solutionFile": "ejercicios/ejercicio_02.js",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "La solución cumple con los requisitos principales, pero hay un error: `navElement` no está definido. Se asume que debía ser `barselector`. Considera usar `querySelector` o `querySelectorAll` para mayor flexibilidad."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
         "solutionFile": "ejercicios/ejercicio_03.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "La solución es correcta y concisa. El código es legible y cumple con los requisitos de la actividad. Bien hecho."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
         "solutionFile": "ejercicios/ejercicio_04.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "Excelente solución. Cumple con todos los requisitos y el código es claro y funcional. Bien hecho con la creación dinámica de elementos y la manipulación del DOM."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
         "solutionFile": "ejercicios/ejercicio_05.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es claro y cumple con los objetivos del ejercicio, utilizando `getAttribute` y `setAttribute` de manera efectiva."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
         "solutionFile": "ejercicios/ejercicio_06.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "La solución es correcta y completa, implementando `add`, `remove` y `toggle` como se solicitó. El código es claro, conciso y funcional. Buen trabajo!"
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
         "solutionFile": "ejercicios/ejercicio_07.js",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "La funcionalidad básica se cumple, pero falta agregar texto a los elementos de la lista. Considera usar `textContent` o `innerHTML` para mostrar un identificador o texto descriptivo en cada elemento añadido."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
         "solutionFile": "ejercicios/ejercicio_08.js",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos de la actividad. Bien hecho."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
         "solutionFile": "ejercicios/ejercicio_09.js",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se recomienda mejorar la validación del email y considerar la posibilidad de refactorizar el código para una mejor legibilidad y mantenimiento."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       },
       {
         "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
         "solutionFile": "ejercicios/ejercicio_10.js",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "La solución es correcta y funcional, mostrando la navegación DOM.  La iteración sobre los hijos podría ser simplificada con métodos más modernos de JavaScript. Considera usar `querySelector` o `querySelectorAll` para seleccionar elementos específicos en lugar de iterar."
+        "score": 0,
+        "fileFound": false,
+        "feedback": ""
       }
     ],
-    "overallScore": 4.5,
+    "overallScore": 0,
     "totalActivities": 10,
-    "completedActivities": 10,
-    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.5/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/10 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Completar los archivos faltantes: ejercicios/ejercicio_01.js, ejercicios/ejercicio_02.js, ejercicios/ejercicio_03.js, ejercicios/ejercicio_04.js, ejercicios/ejercicio_05.js, ejercicios/ejercicio_06.js, ejercicios/ejercicio_07.js, ejercicios/ejercicio_08.js, ejercicios/ejercicio_09.js, ejercicios/ejercicio_10.js",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T18:09:33.722Z",
+    "evaluatedAt": "2025-10-05T18:10:22.713Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
