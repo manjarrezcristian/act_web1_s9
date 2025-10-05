@@ -254,9 +254,9 @@
     "evaluatedAt": "2025-10-05T18:13:23.833Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "SerelbochaD3773/act_web1_s9": {
-    "repositoryUrl": "SerelbochaD3773/act_web1_s9",
-    "studentName": "Sergio Andrés Montoya Monsalve",
+  "CMARTINEZ-095/act_web1_s9": {
+    "repositoryUrl": "CMARTINEZ-095/act_web1_s9",
+    "studentName": "Carlos Andrés Martinez Carvajal",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
@@ -338,7 +338,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T18:17:51.183Z",
+    "evaluatedAt": "2025-10-05T18:18:40.164Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
