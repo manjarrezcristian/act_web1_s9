@@ -84,91 +84,91 @@
     "evaluatedAt": "2025-10-05T18:02:01.555Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "vcorreaga/act_web1_s9": {
-    "repositoryUrl": "vcorreaga/act_web1_s9",
-    "studentName": "Viadis Yadith Correa Galeano",
+  "Jcorrea24/act_web1_s9": {
+    "repositoryUrl": "Jcorrea24/act_web1_s9",
+    "studentName": "Julio Eduardo Correa",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
         "solutionFile": "ejercicios/ejercicio_01.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código presentado no corresponde a la descripción del ejercicio. Se implementó un inventario de productos en lugar de mostrar el título y la URL del documento HTML."
       },
       {
         "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
         "solutionFile": "ejercicios/ejercicio_02.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código no cumple con la descripción de la actividad (seleccionar elementos por ID, cambiar texto y color de fondo). En su lugar, implementa filtros sobre un array de productos. La lógica de filtrado es correcta, pero no corresponde al problema planteado."
       },
       {
         "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
         "solutionFile": "ejercicios/ejercicio_03.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código entregado no corresponde a la descripción de la actividad (selección de elementos por clase y manipulación del DOM). En cambio, se enfoca en manipulación de arrays con map, reduce, etc. Necesitas revisar y completar la actividad solicitada."
       },
       {
         "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
         "solutionFile": "ejercicios/ejercicio_04.js",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "La solución es correcta, clara y eficiente. Utiliza `reduce()` de manera efectiva para calcular los resultados solicitados. El código está bien estructurado y es fácil de entender."
       },
       {
         "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
         "solutionFile": "ejercicios/ejercicio_05.js",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "Excelente solución. El código es claro, conciso y resuelve correctamente todos los requerimientos utilizando las funciones de array de manera eficiente. Se cumplen todas las buenas prácticas."
       },
       {
         "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
         "solutionFile": "ejercicios/ejercicio_06.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código presentado no corresponde a la descripción de la actividad (Agregar y Quitar Clases CSS). Se enfoca en manipulación de arrays en lugar de clases CSS. Es necesario revisar el enunciado y corregir la solución."
       },
       {
         "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
         "solutionFile": "ejercicios/ejercicio_07.js",
-        "score": 0,
+        "score": 2,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código se enfoca en ordenamiento de arrays y no en la manipulación del DOM con createElement y appendChild como se solicitaba. El código proporcionado es correcto en cuanto a ordenamiento, pero no cumple con el objetivo principal de la actividad."
       },
       {
         "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
         "solutionFile": "ejercicios/ejercicio_08.js",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Demuestra un buen entendimiento de las técnicas de manipulación de arrays y desestructuración."
       },
       {
         "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
         "solutionFile": "ejercicios/ejercicio_09.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código presentado no corresponde a la descripción de la actividad (Formularios y Validación). Se evalúa la solución proporcionada, no la intención."
       },
       {
         "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
         "solutionFile": "ejercicios/ejercicio_10.js",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Archivo vacío - sin contenido para evaluar"
+        "feedback": "El código proporcionado no corresponde a la descripción de la actividad (Navegación entre Elementos del DOM).  Se enfoca en manipulación de objetos, no en la navegación del DOM.  Es necesario que la solución se centre en el manejo de `parentElement`, `children`, y `nextElementSibling` en un documento HTML."
       }
     ],
-    "overallScore": 0,
+    "overallScore": 2.3,
     "totalActivities": 10,
-    "completedActivities": 0,
-    "summary": "Necesita mejorar. Completó 0/10 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 10,
+    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 2.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
       "Revisar y mejorar las actividades con calificación baja",
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T18:03:53.103Z",
+    "evaluatedAt": "2025-10-05T18:04:54.246Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
