@@ -84,89 +84,91 @@
     "evaluatedAt": "2025-10-05T18:02:01.555Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "OBrandonC/act_web1_s9": {
-    "repositoryUrl": "OBrandonC/act_web1_s9",
-    "studentName": "Brandon Ciro Ortiz",
+  "vcorreaga/act_web1_s9": {
+    "repositoryUrl": "vcorreaga/act_web1_s9",
+    "studentName": "Viadis Yadith Correa Galeano",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
         "solutionFile": "ejercicios/ejercicio_01.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, funcional y cumple con todos los requisitos de la actividad. Buena práctica al usar el evento DOMContentLoaded para asegurar que el script se ejecute después de que el DOM esté completamente cargado."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
         "solutionFile": "ejercicios/ejercicio_02.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente y el código es claro. El uso de `setTimeout` añade un comportamiento interesante a la solución."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
         "solutionFile": "ejercicios/ejercicio_03.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. El uso de `setTimeout` es innecesario, se podría simplificar el código eliminándolo. Se recomienda usar `const` para declarar `el` dentro del bucle `for...of`."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
         "solutionFile": "ejercicios/ejercicio_04.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución resuelve la actividad correctamente. Podrías mejorar la claridad separando las actualizaciones de textContent e innerHTML en funciones separadas para mayor legibilidad y mantenibilidad."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
         "solutionFile": "ejercicios/ejercicio_05.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos del ejercicio, incluyendo la lectura y modificación de atributos. Bien hecho."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
         "solutionFile": "ejercicios/ejercicio_06.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Bien hecho."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
         "solutionFile": "ejercicios/ejercicio_07.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. El código es claro, bien estructurado y sigue las buenas prácticas para la manipulación del DOM."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
         "solutionFile": "ejercicios/ejercicio_08.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y funcional, cumpliendo con todos los requisitos de la actividad. Bien hecho!"
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
         "solutionFile": "ejercicios/ejercicio_09.js",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución resuelve correctamente la validación básica del formulario. Sería bueno añadir validación del formato del email y manejar el caso del campo 'mensaje' también. Considera usar clases para la gestión de estilos en lugar de modificar directamente la propiedad className."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       },
       {
         "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
         "solutionFile": "ejercicios/ejercicio_10.js",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "¡Excelente solución! El código es claro, conciso y funcional, demostrando un buen entendimiento de la navegación DOM y la manipulación del HTML. Buena utilización de las propiedades `parentElement`, `children` y `nextElementSibling`."
+        "feedback": "Archivo vacío - sin contenido para evaluar"
       }
     ],
-    "overallScore": 4.7,
+    "overallScore": 0,
     "totalActivities": 10,
-    "completedActivities": 10,
-    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/10 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T18:03:02.163Z",
+    "evaluatedAt": "2025-10-05T18:03:53.103Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
