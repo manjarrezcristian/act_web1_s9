@@ -254,9 +254,9 @@
     "evaluatedAt": "2025-10-05T18:13:23.833Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "irwincol/act_web1_s9": {
-    "repositoryUrl": "irwincol/act_web1_s9",
-    "studentName": "Irwin Colmenarez Castillo",
+  "manjarrezcristian/act_web1_s9": {
+    "repositoryUrl": "manjarrezcristian/act_web1_s9",
+    "studentName": "cristian luis tovar manjarrez",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
@@ -338,7 +338,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-10-05T18:16:12.718Z",
+    "evaluatedAt": "2025-10-05T18:17:01.993Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
