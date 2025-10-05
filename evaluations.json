@@ -84,91 +84,89 @@
     "evaluatedAt": "2025-10-05T18:02:01.555Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Jcorrea24/act_web1_s9": {
-    "repositoryUrl": "Jcorrea24/act_web1_s9",
-    "studentName": "Julio Eduardo Correa",
+  "amgallego/act_web1_s9": {
+    "repositoryUrl": "amgallego/act_web1_s9",
+    "studentName": "Ana Marcela Gallego Gomez",
     "activities": [
       {
         "activityDescription": "Información Básica del Documento - Crea una página HTML simple que muestre: Título de la página usando document.title, URL actual usando document.URL, Mostrar esta información en un div en la página",
         "solutionFile": "ejercicios/ejercicio_01.js",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código presentado no corresponde a la descripción del ejercicio. Se implementó un inventario de productos en lugar de mostrar el título y la URL del documento HTML."
+        "feedback": "Solución correcta y eficiente. El código es limpio y fácil de entender. Cumple con todos los requisitos de la actividad."
       },
       {
         "activityDescription": "Seleccionar Elementos por ID - Crea una página con varios elementos que tengan ID y: Usa getElementById() para seleccionar elementos, Cambia el texto de los elementos seleccionados, Cambia el color de fondo de un elemento",
         "solutionFile": "ejercicios/ejercicio_02.js",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código no cumple con la descripción de la actividad (seleccionar elementos por ID, cambiar texto y color de fondo). En su lugar, implementa filtros sobre un array de productos. La lógica de filtrado es correcta, pero no corresponde al problema planteado."
+        "feedback": "La solución es correcta y cumple con todos los requisitos de la actividad. El código es limpio y fácil de entender, demostrando un buen manejo de DOM y JavaScript."
       },
       {
         "activityDescription": "Seleccionar Elementos por Clase - Crea elementos con la misma clase y: Usa getElementsByClassName() para seleccionarlos, Cambia el estilo de todos los elementos de esa clase, Cuenta cuántos elementos tienen esa clase",
         "solutionFile": "ejercicios/ejercicio_03.js",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código entregado no corresponde a la descripción de la actividad (selección de elementos por clase y manipulación del DOM). En cambio, se enfoca en manipulación de arrays con map, reduce, etc. Necesitas revisar y completar la actividad solicitada."
+        "feedback": "Solución correcta y eficiente. El código es claro, conciso y cumple con todos los requisitos de la actividad. Bien hecho."
       },
       {
         "activityDescription": "Cambiar Contenido de Elementos - Crea elementos con texto y: Usa textContent para cambiar el texto, Usa innerHTML para agregar HTML, Crea un botón que cambie el contenido al hacer clic",
         "solutionFile": "ejercicios/ejercicio_04.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, clara y eficiente. Utiliza `reduce()` de manera efectiva para calcular los resultados solicitados. El código está bien estructurado y es fácil de entender."
+        "feedback": "La solución es correcta y cumple con todos los requisitos. El código es limpio, funcional y fácil de entender, demostrando buenas prácticas en el uso de `textContent` e `innerHTML`."
       },
       {
         "activityDescription": "Modificar Atributos - Crea elementos con atributos y: Usa getAttribute() para leer atributos, Usa setAttribute() para cambiar atributos, Cambia el src de una imagen y el href de un enlace",
         "solutionFile": "ejercicios/ejercicio_05.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y resuelve correctamente todos los requerimientos utilizando las funciones de array de manera eficiente. Se cumplen todas las buenas prácticas."
+        "feedback": "La solución es correcta y completa. El código es claro y funcional, cumpliendo con los requisitos de la actividad. Buen trabajo."
       },
       {
         "activityDescription": "Agregar y Quitar Clases CSS - Crea elementos con estilos CSS y: Usa classList.add() para agregar clases, Usa classList.remove() para quitar clases, Usa classList.toggle() para alternar clases",
         "solutionFile": "ejercicios/ejercicio_06.js",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código presentado no corresponde a la descripción de la actividad (Agregar y Quitar Clases CSS). Se enfoca en manipulación de arrays en lugar de clases CSS. Es necesario revisar el enunciado y corregir la solución."
+        "feedback": "La solución es correcta y concisa, implementando las funciones add, remove y toggle de classList según lo solicitado. El código es limpio y fácil de entender."
       },
       {
         "activityDescription": "Crear y Agregar Elementos - Crea nuevos elementos dinámicamente: Usa createElement() para crear elementos, Usa appendChild() para agregarlos al DOM, Crea una lista de elementos con un botón",
         "solutionFile": "ejercicios/ejercicio_07.js",
-        "score": 2,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código se enfoca en ordenamiento de arrays y no en la manipulación del DOM con createElement y appendChild como se solicitaba. El código proporcionado es correcto en cuanto a ordenamiento, pero no cumple con el objetivo principal de la actividad."
+        "feedback": "La solución es correcta y funcional. El código es limpio, legible y cumple con los requisitos de la actividad. Buen trabajo."
       },
       {
         "activityDescription": "Eventos Básicos - Crea elementos interactivos: Usa addEventListener() para eventos de click, Maneja eventos de mouseover y mouseout, Cambia elementos cuando ocurran los eventos",
         "solutionFile": "ejercicios/ejercicio_08.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y cumple con todos los requisitos de la actividad. Demuestra un buen entendimiento de las técnicas de manipulación de arrays y desestructuración."
+        "feedback": "Excelente solución. Cumple con todos los requisitos de la actividad, el código es claro, conciso y funcional. Demuestra un buen entendimiento del manejo de eventos en JavaScript."
       },
       {
         "activityDescription": "Formularios y Validación Simple - Crea un formulario simple y: Obtén valores de inputs con value, Valida que los campos no estén vacíos, Muestra mensajes de error o éxito",
         "solutionFile": "ejercicios/ejercicio_09.js",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código presentado no corresponde a la descripción de la actividad (Formularios y Validación). Se evalúa la solución proporcionada, no la intención."
+        "feedback": "La solución es funcional y cumple con los requisitos básicos. Podría mejorar la validación del email (ej. formato) y separar la lógica de la manipulación del DOM para mayor mantenibilidad."
       },
       {
         "activityDescription": "Navegación entre Elementos - Crea una estructura HTML y demuestra: Usa parentElement para acceder al elemento padre, Usa children para acceder a elementos hijos, Usa nextElementSibling para el siguiente hermano, Muestra la información de navegación en la página",
         "solutionFile": "ejercicios/ejercicio_10.js",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código proporcionado no corresponde a la descripción de la actividad (Navegación entre Elementos del DOM).  Se enfoca en manipulación de objetos, no en la navegación del DOM.  Es necesario que la solución se centre en el manejo de `parentElement`, `children`, y `nextElementSibling` en un documento HTML."
+        "feedback": "Excelente solución. El código es claro, funcional y utiliza correctamente las propiedades del DOM para la navegación. La presentación de la información en la página es adecuada."
       }
     ],
-    "overallScore": 2.3,
+    "overallScore": 4.9,
     "totalActivities": 10,
     "completedActivities": 10,
-    "summary": "Necesita mejorar. Completó 10/10 actividades (100%) con una calificación promedio de 2.3/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 10/10 actividades (100%) con una calificación promedio de 4.9/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-10-05T18:04:54.246Z",
+    "evaluatedAt": "2025-10-05T18:05:54.274Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
